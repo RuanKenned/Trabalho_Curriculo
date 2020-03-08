@@ -4,9 +4,11 @@ body{
 	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
 	color:#6a6969;
 }
-h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
+h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#ffffff;}
+h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#ffffff;}
+#h2 #logo{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#ffffff;}
+h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#ffffff;}
+
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#6a6969;}
 a:hover {color:#979797;}
@@ -35,7 +37,7 @@ a img{border:0px;}
 	margin: 0 0 0 -475px;
 }
 #header #logo{
-	padding-top:40px;
+	padding-top: 20px;
 	float:left;
 }
 #header #main-menu{float:right; padding-top:45px;}
