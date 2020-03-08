@@ -6,7 +6,6 @@ body{
 }
 h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#ffffff;}
-#h2 #logo{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#ffffff;}
 
 ul{margin:0px; padding:0px;}
@@ -29,7 +28,7 @@ a img{border:0px;}
 #header{
 	width:864px;
 	height:115px;
-	background-color:#222222;
+	background-color:#ffb400;
 	padding:0px 43px;
 	position: fixed;
 	top:0px;
@@ -39,6 +38,7 @@ a img{border:0px;}
 #header #logo{
 	padding-top: 20px;
 	float:left;
+	font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#000000;
 }
 #header #main-menu{float:right; padding-top:45px;}
 #header #main-menu li{
