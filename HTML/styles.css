@@ -7,6 +7,7 @@ body{
 h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#ffffff;}
+h4{font: 400 30px/22px 'Bree Serif', Georgia, serif; color:#000000;}
 
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#6a6969;}
@@ -36,7 +37,7 @@ a img{border:0px;}
 	margin: 0 0 0 -475px;
 }
 #header #logo{
-	padding-top: 20px;
+	padding-top: 0px;
 	float:left;
 	font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#000000;
 }
@@ -98,7 +99,7 @@ a img{border:0px;}
 /* EXPERIENCE SECTION */
 /****************************************************/
 
-#experience{margin:0px 43px; padding-top:115px;}
+#experience{margin:0px 43px; padding-top:40px;}
 #experience .col{
 	width:235px;
 	float:left;
@@ -110,7 +111,7 @@ a img{border:0px;}
 /* WORK SECTION */
 /****************************************************/
 
-#work{margin:0px 43px; padding-top:115px;}
+#work{margin:0px 43px; padding-top:40px;}
 #work .content{overflow:auto;}
 #work #work-thumbs li{
 	list-style:none;
@@ -123,7 +124,7 @@ a img{border:0px;}
 /****************************************************/
 /* CONNECT SECTION */
 /****************************************************/
-#connect{margin:0px 43px; padding-top:115px;}
+#connect{margin:0px 43px; padding-top:40;}
 #connect .content{overflow:auto;}
 #connect #form{
 	width:410px;
@@ -182,7 +183,7 @@ a img{border:0px;}
 #connect #social-footer #sm-links li a{
 	display:block;
 	text-indent:-9999px;
-	width:33px; 
+	width:32px; 
 	height:32px;
 	margin-right:10px;
 }
